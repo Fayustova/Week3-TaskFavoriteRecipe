@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Cinzel:wght@500&display=swap');
+
+body{
+    background-color: rgb(230, 232, 211);
+}
+
+.heading{
+    text-align: center;
+    color: rgb(125, 86, 19);
+    font-family: 'Black Ops One', system-ui;
+    font-size: 3rem;
+   
+}
+
+.picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 500px;
+    border-radius: 8px;
+    padding-bottom: 1rem;
+}
+
+.ingredients{
+    border: 2px solid rgb(206, 185, 31);
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 1rem;
+    padding-bottom: 50px;
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.directions{
+    border: 1px solid black;
+    width: 90%;
+    margin: 1rem auto;
+}
+
+.directions ol{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.directions-heading{
+    color: rgb(175, 134, 11);
+    padding-bottom: 5px;
+    font-size: 30px;
+    font-family: 'Cinzel', serif;
+}
